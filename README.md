@@ -1,3 +1,14 @@
+> **CultureReset fork of [palantir/blueprint](https://github.com/palantir/blueprint).** A React-based UI toolkit for the web.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/palantir/blueprint).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="right">
 <a href="https://autorelease.general.dmz.palantir.tech/palantir/blueprint"><img src="https://img.shields.io/badge/Perform%20an-Autorelease-success.svg" alt="Autorelease"></a>
 </p>
